@@ -1,0 +1,14 @@
+# 只发布站点本身。工作台留在本地。
+ops/
+RULES.md
+judgments.md
+ideas.md
+diary/README.md
+
+# 依赖与本地状态
+node_modules/
+.dshhome/
+.tmp/
+.ssh/
+debug.log
+site/dist/
